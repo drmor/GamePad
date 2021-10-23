@@ -1,0 +1,44 @@
+html{
+	height: 100%;
+}
+body {
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+.logo{
+	margin-left: 100px;
+}
+.bg{
+	background: #222;
+}
+.w{
+	font-size: 130%;
+	color: white;
+	margin-left: 1250px;
+}
+.w1{
+	font-size: 130%;
+	color: black;
+	margin-left: 1450px;
+}
+.w2{
+	margin-left: 100px;
+	font-size: 140%;
+}
+.w3{
+	font-size: 250%;
+}
+.t1{
+	font-size: 127%;
+}
+.tg{
+	font-size: 200%;
+}
+.tp{
+	font-size: 150%;
+}
+.com{
+	margin-left: 350px;
+}
